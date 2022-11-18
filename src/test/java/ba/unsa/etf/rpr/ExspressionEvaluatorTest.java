@@ -11,7 +11,7 @@ import static org.junit.jupiter.api.Assertions.*;
 public class ExspressionEvaluatorTest {
 
     /**
-     * Probni test
+     * Probnii test
      *
      */
     @Test
