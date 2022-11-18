@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-17T23:47:56 CET" name="Surefire suite" finished-at="2022-11-17T23:47:56 CET" duration-ms="116">
+    <groups>
+    </groups>
+    <test started-at="2022-11-17T23:47:56 CET" name="Surefire test" finished-at="2022-11-17T23:47:56 CET" duration-ms="116">
+      <class name="ba.unsa.etf.rpr.AppTest">
+        <test-method signature="shouldAnswerWithTrue()[pri:0, instance:ba.unsa.etf.rpr.AppTest@2a5c8d3f]" started-at="2022-11-17T23:47:56 CET" name="shouldAnswerWithTrue" finished-at="2022-11-17T23:47:56 CET" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAnswerWithTrue -->
+      </class> <!-- ba.unsa.etf.rpr.AppTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
